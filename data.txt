@@ -1,14 +1,20 @@
+Indulási idő (ÓÓ:PP)	Érkezési idő (ÓÓ:PP)	Régi vonal	Új vonal	Forda
+
 [where]
 [endWhere]
+
+Rendszám	Hangerő (0: halk, 1: közepes, 2: hangos)	Csapágyas (semmi: nem, 1: igen)	Forgalomban (semmi: igen, 1: nincs)
 
 [volume]
 MOD-620	0	1
 MOD-621	1	1
 MOD-622	1
-MOD-623	2
+MOD-623	2	1
 MOD-624	0	1
 MOD-625	0	1
+MOD-626			1
 MOD-627	0
+MOD-628			1
 MOD-629	1	1
 MOD-630	1	1
 MOD-631	2
@@ -21,6 +27,7 @@ MOD-637	0	1
 MOD-638	1
 MOD-639	2	1
 MOD-640	1
+MOD-641			1
 MOD-642	1
 MOD-643	1
 MOD-644	1
